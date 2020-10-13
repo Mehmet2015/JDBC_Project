@@ -15,6 +15,9 @@ public class Mehmet2015AddedAClass {
         //create a pull request (PR)
             //to ask original repo owner
             //to merge your change
+
+        //we have added one branch called eu3mae
+        //to work on user story 123 without affecting master
     }
 
 }
